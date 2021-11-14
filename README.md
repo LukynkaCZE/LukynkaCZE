@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Maya - aka [LukynkaCZE][https://www.lukynka.cz] 👋 
+### Hi there, I'm Maya - aka "LukynkaCZE" 👋
+
+[![Website](https://img.shields.io/website?label=Lukynka.cz&style=for-the-badge&url=https%3A%2F%2Flukynka.cz)](https://lukynka.cz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/LukynkaCZE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLukynkaCZE&screen_name=LukynkaCze)
+
