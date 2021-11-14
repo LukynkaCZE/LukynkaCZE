@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **LukynkaCZE/LukynkaCZE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Maya - aka [LukynkaCZE][website] 👋 
+### Hi there, I'm Maya - aka [LukynkaCZE][https://www.lukynka.cz] 👋 
