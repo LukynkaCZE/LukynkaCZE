@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 [![Twitter Follow](https://img.shields.io/twitter/follow/LukynkaCZE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLukynkaCZE&screen_name=LukynkaCze)
 
 
+I'm a young transgender developer mainly focusing on spigot development. I also know bit of HTML, Javascript and CSS. I started with programming at the age of 12 and continued to learn on my own (that's how i got most of my experience) I currently live in Czech Republic but that may change as i want to move to a different country in the future. I studied at art school for a bit but had to leave due to personal reasons. I still  draw sometimes. I post most of my art on 
+
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
