@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm a young transgender developer mainly focusing on spigot development. I also know bit of HTML, Javascript and CSS. I started with programming at the age of 12 and continued to learn on my own (that's how i got most of my experience) I currently live in Czech Republic but that may change as i want to move to a different country in the future.
 
-##Connect with me:
+## Connect with me:
 <p align="left">
 <a href="https://twitter.com/lukynkacze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lukynkacze" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lukynkacze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lukynkacze" height="30" width="40" /></a>
