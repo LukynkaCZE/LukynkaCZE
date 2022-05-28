@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 [![Twitter Follow](https://img.shields.io/twitter/follow/LukynkaCZE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLukynkaCZE&screen_name=LukynkaCze)
 
 
-I'm a young transgender developer mainly focusing on spigot development. I also know C#, Kotlin and bit of HTML, Javascript and CSS. I started with programming at the age of 12 and continued to learn on my own (that's how i got most of my experience) I currently live in Czech Republic 🇨🇿
+I'm a young transgender developer! Im currently working part time as Java/Kotlin developer. I also know C#, Javascript and bit of HTML and CSS. I started with programming at the age of 12 and continued to learn on my own (that's how i got most of my experience) I currently live in Czech Republic 🇨🇿
+I also have experience with quite a bit of libraries :P
 
 ## Connect with me:
 <p align="left">
