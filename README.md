@@ -3,6 +3,8 @@
 
 Im a self-taught passionate Software Developer from Czech Republic 🇨🇿 with over 6 of experience. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
+I currently work as Lead Developer for the second largest Minecraft event, [BlockWars](https://blockwars.games/)
+
 <p align="left">
   <a href="https://github.com/LukynkaCZE?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/twitter/follow/LukynkaCze?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=twitter&label=Follow&logoColor=white"/></a>
