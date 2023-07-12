@@ -38,6 +38,7 @@ I currently work as Lead Developer for the second largest Minecraft event, [Bloc
 
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
+<img align="left" alt="Crowdin" width="30px" style="padding-right:10px;" src="https://support.crowdin.com/assets/logos/small-scale-logo/svg/smallscale-logo-cDark.svg" />
 <br />
 
 #
