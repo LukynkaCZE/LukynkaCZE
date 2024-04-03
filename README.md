@@ -43,7 +43,7 @@ Im a self-taught passionate Software Developer from Czech Republic 🇨🇿 with
 <img align="left" alt="JetBrains" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />
 <br>
 <br>
-<br>
 
+---
 
 ![LukynkaCZE's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukynkaCZE&show_icons=true&theme=radical)
