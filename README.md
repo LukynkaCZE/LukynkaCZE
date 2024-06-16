@@ -45,5 +45,5 @@ Im a self-taught passionate Software Developer from Czech Republic 🇨🇿 with
 <br>
 
 ---
-
-![LukynkaCZE's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukynkaCZE&show_icons=true&theme=radical)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
