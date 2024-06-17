@@ -31,6 +31,8 @@ Im a self-taught passionate Software Developer from Czech Republic 🇨🇿 with
 <!--START_SECTION:waka-->
 
 ```txt
+From: 08 June 2024 - To: 15 June 2024
+
 Total Time: 21 hrs 28 mins
 
 Kotlin                19 hrs 11 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   89.36 %
