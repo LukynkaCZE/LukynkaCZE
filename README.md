@@ -31,7 +31,7 @@ Im a self-taught passionate Software Developer from Czech Republic 🇨🇿 with
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2024 - To: 24 December 2024
+From: 18 December 2024 - To: 25 December 2024
 
 Total Time: 6 hrs 40 mins
 
