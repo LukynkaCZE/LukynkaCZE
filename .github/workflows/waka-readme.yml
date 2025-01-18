@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           IGNORED_LANGUAGES: YAML JSON TOML
-          COMMIT_MESSAGE: jolly waka time stats 🎄⭐☃️
+          COMMIT_MESSAGE: new waka time stats :3
           COMMITTER_NAME: Yuna
           COMMITTER_EMAIL: action-bot@github.com
           SHOW_TOTAL: true
