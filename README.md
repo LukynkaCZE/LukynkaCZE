@@ -31,11 +31,12 @@ Im a self-taught passionate Software Developer from Czech Republic 🇨🇿 with
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2025 - To: 30 October 2025
+From: 24 October 2025 - To: 31 October 2025
 
-Total Time: 1 hr 36 mins
+Total Time: 3 hrs 54 mins
 
-Kotlin   1 hr 36 mins    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+Kotlin     3 hrs 39 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱   93.63 %
+Markdown   13 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.71 %
 ```
 
 <!--END_SECTION:waka-->
